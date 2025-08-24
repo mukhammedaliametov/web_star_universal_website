@@ -62,19 +62,19 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="bg-[#262D33] py-[15px] md:py-[20px]">
+      <div className="bg-[#262D33] ">
         <div className="max-w-[1220px] mx-auto px-[16px] md:px-0 flex justify-between items-center gap-[25px] font-global text-white font-normal uppercase overflow-x-scroll md:overflow-x-hidden">
-            <a href="#">News</a>
-            <a href="#">Opinion</a>
-            <a href="#">Science</a>
-            <a href="#">Life</a>
-            <a href="#">Travel</a>
-            <a href="#">Moneys</a>
-            <a href="#"><span className="hidden md:block">Art & </span>Design</a>
-            <a href="#">Sports</a>
-            <a href="#">People</a>
-            <a href="#">Health</a>
-            <a href="#">Education</a>
+            <a href="#" className="py-[15px] md:py-[20px]">News</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Opinion</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Science</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Life</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Travel</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Moneys</a>
+            <a href="#" className="py-[15px] md:py-[20px]"><span className="hidden md:block">Art & </span>Design</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Sports</a>
+            <a href="#" className="py-[15px] md:py-[20px]">People</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Health</a>
+            <a href="#" className="py-[15px] md:py-[20px]">Education</a>
         </div>
       </div>
     </div>
