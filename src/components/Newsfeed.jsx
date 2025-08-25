@@ -12,7 +12,7 @@ import { FaHeart } from "react-icons/fa";
 
 const Newsfeed = () => {
   return (
-    <div className="bg-[#EDEFF0]">
+    <div className="bg-[#EDEFF0] pb-[25px]">
       <div className="max-w-[1220px] mx-auto px-[16px] md:px-0 py-[50px] font-global grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 auto-rows-[minmax(150px,auto)] gap-5">
         
         {/* Katta card */}
